@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 54837750e3ee7ba4f80872e6c44da748
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BlowEffectPrefab: {fileID: 9138758601698949018, guid: f224233ad38096148b00d01578c4056a,
+      type: 3}
+  - DamageEffectPrefab: {fileID: 61968888185204877, guid: d60839e416f2d5041af70709ca10c91b,
+      type: 3}
+  - DamageNumberPrefab: {fileID: 5704939918815085280, guid: bcd8446eac5b2034388063e123b9bbc7,
+      type: 3}
+  - DataSO: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2e62a5d923969f40bc12cf95c78e7cc, type: 3}
+  m_Name: Pistol1
+  m_EditorClassIdentifier: 
+  Name: Pistol Gun
+  Pickable: 1
+  PickableRange: 3
+  FloatInfo: {fileID: 5095359645972306440, guid: 6e01151c090f25a40b585206b5c784a1,
+    type: 3}
+  PickAudio: {fileID: 8300000, guid: 4aaa78b2722c0344cb0363a3980adf64, type: 3}
+  BulletHoldMax: 6
+  CurrentBulletNumInGun: 6
+  AmmunitionDamage: 2
+  ShootRange: 100
+  OpeningAimTime: 0.2
+  Recoil: 0.5
+  AimingViewRate: 0.7
+  Type: 1
